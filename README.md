@@ -4,6 +4,37 @@ A full-stack task management application built with **React** (frontend) and **N
 
 ---
 
+## Live Demo
+
+Check out the live application here: [Task Management App](https://task-management-neon-iota.vercel.app/)
+
+---
+
+## Demo Account
+
+Use the following demo account to log in:
+
+- **Email:** test@gmail.com  
+- **Password:** 123xyz
+
+---
+
+## Screenshots
+
+### 1. Login Page
+![Login Page](./screenshots/login-page.png)
+
+### 2. Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### 3. Task Management
+![Task Management](./screenshots/task-management.png)
+
+### 4. Profile Page
+![Profile Page](./screenshots/profile-page.png)
+
+---
+
 ## Features
 
 - User registration and authentication (JWT)
