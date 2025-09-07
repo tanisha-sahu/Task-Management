@@ -21,16 +21,16 @@ Use the following demo account to log in:
 
 ## Screenshots
 
-### 1. Login Page
+### 1. Register Page
 ![Login Page](./images/UserRegister.png)
 
-### 2. Dashboard
+### 2. Create Task
 ![Dashboard](./images/CreateTask.png)
 
-### 3. Task Management
+### 3. Dashboard
 ![Task Management](./images/Dashboard.png)
 
-### 4. Profile Page
+### 4. View Task
 ![Profile Page](./images/ViewTask.png)
 
 ---
