@@ -22,16 +22,16 @@ Use the following demo account to log in:
 ## Screenshots
 
 ### 1. Login Page
-![Login Page](./screenshots/login-page.png)
+![Login Page](./images/UserRegister.png)
 
 ### 2. Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./images/CreateTask.png)
 
 ### 3. Task Management
-![Task Management](./screenshots/task-management.png)
+![Task Management](./images/Dashboard.png)
 
 ### 4. Profile Page
-![Profile Page](./screenshots/profile-page.png)
+![Profile Page](./images/ViewTask.png)
 
 ---
 
