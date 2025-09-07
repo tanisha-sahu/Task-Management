@@ -131,4 +131,3 @@ This project is licensed under the MIT License.
 - [Vite](https://vitejs.dev/)
 - [React](https://react.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
--
