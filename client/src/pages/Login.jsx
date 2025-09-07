@@ -43,9 +43,9 @@ const Login = () => {
     };
 
     return (
-        <div className="flex items-center justify-center h-screen bg-slate-50">
+        <div className="flex items-center justify-center h-screen bg-slate-100">
             <div className="w-full max-w-md">
-                <div className="bg-white shadow-md rounded-lg p-8">
+                <div className="bg-white shadow-xl rounded-lg p-8">
                     <h3 className="text-2xl font-bold text-center text-slate-800 mb-6">Sign In</h3>
 
                     {error && <Message variant="danger">{error}</Message>}

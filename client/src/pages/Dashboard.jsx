@@ -152,8 +152,8 @@ const Dashboard = () => {
   };
 
   return (
-    <div className="flex items-center justify-center bg-gradient-to-b from-slate-50 to-white py-10 mt-6">
-      <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <div className="bg-gradient-to-b min-h-screen from-slate-100 to-slate-100 py-12">
+      <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-8 mt-8">
         <div className="bg-white rounded-lg shadow-sm">
           <div className="px-6 py-4 border-b flex flex-col sm:flex-row justify-between items-center gap-4">
             <h4 className="text-lg font-semibold text-slate-800 self-start sm:self-center">All Tasks</h4>

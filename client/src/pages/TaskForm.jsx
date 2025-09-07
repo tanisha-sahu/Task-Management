@@ -81,8 +81,8 @@ const TaskForm = () => {
   };
 
   return (
-    <div className="flex items-center justify-center h-screen bg-gradient-to-b from-slate-50 to-white py-10 mt-6">
-      <div className="container mx-auto max-w-2xl px-4">
+    <div className="flex items-center justify-center h-screen bg-gradient-to-b from-slate-100 to-slate-100 py-12">
+      <div className="container mx-auto max-w-2xl px-4 mt-8">
         <div className="bg-white shadow-xl rounded-2xl border border-slate-100 overflow-hidden">
           <div className="px-6 py-5 border-b">
             <h4 className="text-xl font-semibold text-slate-900">

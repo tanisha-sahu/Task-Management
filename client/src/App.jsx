@@ -12,7 +12,7 @@ function App() {
     return (
         <Router>
             <Header />
-            <main className="bg-gray-50">
+            <main className="bg-slate-100 min-h-screen">
                 
                 <Routes>
                     <Route path="/login" element={<Login />} />
