@@ -34,7 +34,7 @@ A full-stack task management application built with **React** (frontend) and **N
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/task-management-app.git
+git clone https://github.com/tanisha-sahu/Task-Management.git
 cd task-management-app
 ```
 
@@ -122,7 +122,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-- [Omega](https://github.com/yourusername)
+- [tanisha-sahu](https://github.com/tanisha-sahu)
 
 ---
 
